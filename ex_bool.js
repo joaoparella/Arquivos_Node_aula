@@ -6,7 +6,7 @@ const validoComTipoSolto = (idadeDigitadaNoFormulario == idadeUsuario);
 const validoComTipoEstrito = (idadeDigitadaNoFormulario === idadeUsuario); 
 
 console.log("Validação de Idade:");
-console.log("Usando == :", validoComTipoSolto);   
+console.log("Usando == :", validoComTipoSolto);   //teste
 console.log("Usando === :", validoComTipoEstrito); 
 
 if (usuarioLogado && validoComTipoEstrito) {
