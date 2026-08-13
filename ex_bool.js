@@ -6,8 +6,8 @@ const validoComTipoSolto = (idadeDigitadaNoFormulario == idadeUsuario);
 const validoComTipoEstrito = (idadeDigitadaNoFormulario === idadeUsuario); 
 
 console.log("Validação de Idade:");
-console.log("Usando == :", validoComTipoSolto);   // true
-console.log("Usando === :", validoComTipoEstrito); // false
+console.log("Usando == :", validoComTipoSolto);   
+console.log("Usando === :", validoComTipoEstrito); 
 
 if (usuarioLogado && validoComTipoEstrito) {
     console.log("Cadastro atualizado com sucesso!");
