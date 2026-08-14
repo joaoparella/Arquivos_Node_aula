@@ -5,6 +5,7 @@ var n2 = 0;
 
 var n1 = Number(prompt("Digite aqui o nota 1: ")); 
 var n2 = Number(prompt("Digite aqui o nota 2: "));
+//asdasdas
 
 var media = (n1 + n2) / 2;
 
