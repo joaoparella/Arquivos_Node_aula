@@ -5,3 +5,7 @@ for (var i = 0; i < vetor.length ; i++) {
     console.log('valor ',i ,'=',vetor[i]);
 }
 //asdasd
+//asdasd
+//asdasd
+//asdasd
+//asdasd
